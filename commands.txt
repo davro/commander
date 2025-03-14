@@ -1,0 +1,7 @@
+"System Info" whoami && uname -a && df -h && lscpu --extended -a
+"Barrier" barrier
+"Firefox" firefox
+"Google Chrome" google-chrome
+"Chromium" chromium
+"PulseChain Live" cd ~/workspace/pulsechain-live && bash build.bash
+"Cursor" ~/workspace/apps/cursor-0.45.14-build-250219jnihavxsz-x86_64.AppImage --no-sandbox
